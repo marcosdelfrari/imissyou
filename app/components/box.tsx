@@ -22,14 +22,16 @@ const Box = () => {
           Uma das coisas que mais valorizo na vida é a oportunidade de aprender
           com o outro. Desde que te conheci, sempre admirei você. Infelizmente,
           nosso romance chegou ao fim em meio a um desarranjo emocional, mas a
-          verdade é que você nunca saiu dos meus pensamentos. Todos os dias
-          penso em você e me pergunto se é por querer viver novos momentos ao
-          seu lado ou resolver algo que ficou pendente. Talvez seja um pouco de
-          tudo, mas a verdade é que ainda não consegui deixar você para trás.
-          Quase dois meses se passaram, e você ainda ocupa um lugar importante
-          na minha mente. Sei que tentar uma reaproximação pode ser arriscado,
-          mas acredito que a beleza da vida está justamente nos riscos que
-          escolhemos enfrentar. Eu ainda te amo.
+          verdade é que você nunca saiu dos meus pensamentos. <br /> <br />
+          Todos os dias penso em você e me pergunto se é por querer viver novos
+          momentos ao seu lado ou resolver algo que ficou pendente. Talvez seja
+          um pouco de tudo, mas a verdade é que ainda não consegui deixar você
+          para trás. Quase dois meses se passaram, e você ainda ocupa um lugar
+          importante na minha mente. <br />
+          <br />
+          Sei que tentar uma reaproximação pode ser arriscado, mas acredito que
+          a beleza da vida está justamente nos riscos que escolhemos enfrentar.
+          Eu ainda te amo.
         </p>
         <div className="m-auto w-full flex justify-center tems-center">
           <Image src="/flower.webp" alt="Heart" width={100} height={100} />
