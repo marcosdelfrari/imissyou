@@ -19,7 +19,8 @@ const Box = () => {
           className="text-lg text-gray-700"
           style={{ fontFamily: "var(--font-sour-gummy)" }}
         >
-          Uma das coisas que mais valorizo na vida é a oportunidade de aprender
+          Você voltou aqui né kkk, foi um prazer dividir a vida com você, não vou apagar essa carta.
+Uma das coisas que mais valorizo na vida é a oportunidade de aprender
           com o outro. Desde que te conheci, sempre admirei você. Infelizmente,
           nosso romance chegou ao fim em meio a um desarranjo emocional, mas a
           verdade é que você nunca saiu dos meus pensamentos. <br /> <br />
